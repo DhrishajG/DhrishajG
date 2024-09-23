@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhrishajG
-- 👀 I’m interested in Data Science, Artificial Intelligence and Visual Computing
-- 🌱 I’m currently learning Database Management, Introduction to AI, Visual Computing, and Machine Learning
+- 👀 I’m interested in Cloud Computing, IoT, and Software Products
+- 🌱 I’m currently learning Computer Graphics, Distributed Systems, IoT
 - 📫 Reach me @ dhrishaj.garg@gmail.com 
 - 🎓 I'm a student @ The University of Manchester, Department of Computer Science
 
